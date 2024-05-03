@@ -11,6 +11,8 @@ import (
 	"strings"
 	"sync"
 	"time"
+
+	"github.com/Ynoof5/waybackurls"
 )
 
 func main() {
